@@ -1,0 +1,11 @@
+{
+  "name": "likebot",
+  "version": "1.4.0",
+  "description": "Voici le bot LikeBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "_help"
+  },
+  "author": "Coco_Crafteur",
+  "license": "ISC"
+}
